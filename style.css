@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(231, 210, 255);
+  font-family: "Arial";
+}
+
+.tab {
+  border-style: solid;
+  border-color: rgb(120, 70, 161);
+
+}
