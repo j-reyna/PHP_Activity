@@ -12,7 +12,7 @@
     <fieldset>
         <legend>This form uses GET request</legend>
         <form action="redirect.php" method="GET">
-        <table>
+        <table id=tab>
             <tr>
                 <td>First Name</td>
                 <td>
@@ -75,7 +75,7 @@
     <fieldset style="margin-top: 20px">
         <legend>This form uses POST request</legend>
         <form action="redirect.php" method="POST">
-        <table>
+        <table id=tab>
             <tr>
                 <td>First Name</td>
                 <td>
