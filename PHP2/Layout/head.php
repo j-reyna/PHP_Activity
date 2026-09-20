@@ -11,9 +11,6 @@
             font-family: "Arial";
         }
 
-        .a {
-            text-indent: 50px;
-        }
     </style>
 </head>
 <body>
